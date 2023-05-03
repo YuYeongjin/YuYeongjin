@@ -1,5 +1,5 @@
 ### - 🔭 I’m currently working on ...
-<p> Data-Labs 스타트업 개발자 </p>
+<p> UWS 블록체인 연구소 개발 매니저 </p>
  -  📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuYeongjin&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
