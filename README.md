@@ -5,6 +5,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 <!--
 
+<h5> 주요 프로젝트 </h5>
+<p> 결제 모바일 웹 개발 (2023.11~2024.02) React, Spring </p>
+<p> 분산원장 웹 어플리케이션 개발 (2023.05~2023.11) React, Spring, Besu </p>
+<p> 데이터지갑 모바일 어플리케이션 개발 (2023.02~2023.05) React Native, Node.js, Besu </p>
+<p> LG CNS EAI 개발 (2022.11~2023.01) Message Queue 미들웨어 </p>
+
+
+
+
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
 
