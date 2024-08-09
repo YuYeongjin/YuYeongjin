@@ -14,15 +14,10 @@
 <p> 3. 분산원장 웹 어플리케이션 개발 (2023.05~2023.11) React, Spring, Besu </p>
 <p> 4. 데이터지갑 모바일 어플리케이션 개발 (2023.02~2023.05) React Native, Node.js, Besu </p>
 <p> 5. LG CNS EAI 개발 (2022.11~2023.01) Message Queue 미들웨어 </p>
-<!--
-
 
 <h3> 개인 프로젝트 </h3>
 <p> 1. Spring AI 챗봇 (2024.08~) React, Spring </p>
-
-
-
-
+<!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
 
