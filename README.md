@@ -5,11 +5,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
 <h3> 기술 </h3>
-<p> 1.Java => 2년 </p>
-<p> 2.React => 1년 </p>
-<p> 3.C++ => Starter </p>
-<p> 4.Python => Starter </p>
-<p> 5.Solidity => Starter </p>
+<p>Intermediate : React, Java </p>
+<p>Beginner : C++, Python, Solidity</p>
 
 <h3> 자격증 </h3>
 <p> 1.2020년 토목기사 </p>
