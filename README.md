@@ -21,7 +21,7 @@
 <p> 6. LG CNS EAI 개발 (2022.11~2023.01) Message Queue 미들웨어 </p>
 
 <h3> 개인 프로젝트 및 공부</h3>
-<p> 1. Spring AI 챗봇 기반 영어 단어장 (2024.08~ ) React, Spring </p>
+<p> 1. Spring AI 챗봇 기반 영어 단어장 (2024.08~09 ) React, Spring </p>
 <p> 2. C++ 임베디드, 펌웨어 공부 (2024.10~ ) C++ </p>
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
