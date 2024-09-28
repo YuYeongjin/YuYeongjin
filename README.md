@@ -22,7 +22,8 @@
 
 <h3> 개인 프로젝트 및 공부</h3>
 <p> 1. Spring 영어 단어 문제 프로그램 실행파일  (2024.08~09 ) React, Spring </p>
-<p> 2. C++ 임베디드, 펌웨어 공부 (2024.10~ ) C++ </p>
+<p> 2. C++ 임베디드, 펌웨어 공부 (2024.09~ ) C++ </p>
+<p> 3. Java 코딩테스트 공부 (2024.09~ ) C++ </p>
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
