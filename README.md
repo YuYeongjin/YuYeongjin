@@ -6,7 +6,7 @@
 
 <h3> 기술 </h3>
 <p>Intermediate : React, Java </p>
-<p>Beginner : C++, Python, Solidity</p>
+<p>Beginner : C#, Python, Solidity</p>
 
 <h3> 자격증 </h3>
 <p> 1.2020년 토목기사 </p>
