@@ -22,7 +22,7 @@
 
 <h3> 개인 프로젝트 및 공부</h3>
 <p> 1. Spring 영어 단어 문제 프로그램 실행파일  (2024.08~09 ) React, Spring </p>
-<p> 2. C++ ,C# (언리얼, 유니티) 공부 (2025.04~ ) C++,C# </p>
+<p> 2. C++ ,C#, 언리얼  -> 디지털 트윈 개인 프로젝트 (2025.04~ ) C++,C# </p>
 <p> 3. Java 코딩테스트 공부 (2024.09~ ) </p>
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
