@@ -1,6 +1,6 @@
 ### - 🔭 I’m currently working on ...
 <p> UWS 기업부설연구소 개발 매니저 </p>
-<p> 한양대학원 컴퓨터공학과 123기 2025 ~ (재학중)</p>
+<p> 한양대학교 공학대학원 컴퓨터공학과 123기 2025 ~ (재학중)</p>
 <p> 인하대학교 토목공학과 학사 </p>
  -  📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuYeongjin&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>  
