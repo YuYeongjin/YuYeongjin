@@ -28,7 +28,8 @@
 <h3> 개인 프로젝트 및 공부</h3>
 <p> Spring 영어 단어 문제 프로그램 실행파일  (2024.08~09 ) React, Spring </p>
 <p> C++ ,C#, 언리얼  -> 디지털 트윈 개인 프로젝트 (2025.04~ ) C++,C# </p>
-<p> 디지털 트윈 Lang Chain 기반 이상기후 탐지 기능 (2025.07~ ) python </p>
+<p> 디지털 트윈 Lang Chain 기반 이상기후 탐지 기능 (2025.07~2025.09 ) python </p>
+<p> Raspberry OS ARM 64 Study </p>
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
