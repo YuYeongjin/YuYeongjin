@@ -7,7 +7,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
 <h3> 기술 </h3>
-<p>Intermediate : JavaScript(React), Java(Spring) </p>
+<p>Intermediate : JavaScript(React), Java(Spring)</p>
+<p>Azure, Kakao Cloud & On-Premise Kubernetes CI (Jenkins) / CD (ArgoCD)</p>
 <p>Beginner : C#, C++, Python </p>
 
 <h3> 자격증 </h3>
