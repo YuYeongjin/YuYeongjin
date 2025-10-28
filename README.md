@@ -1,6 +1,6 @@
 ### - 🔭 I’m currently working on ...
 <p> UWS 기업부설연구소 개발 매니저 </p>
-<p> 한양대학교 공학대학원 컴퓨터공학과 123기 2025 ~ (재학중)</p>
+<p> 한양대학교 공학대학원 컴퓨터공학과 123기 2025.09 ~ (재학중)</p>
 <p> 인하대학교 토목공학과 학사 </p>
  -  📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuYeongjin&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>  
@@ -10,7 +10,8 @@
 <p>Intermediate : JavaScript(React), Java(Spring)</p>
 <p>Azure, Kakao Cloud & On-Premise Kubernetes CI (Jenkins) / CD (ArgoCD)</p>
 <p>Beginner : C#, C++, Python </p>
-
+<p>database : maria, postgre
+ 
 <h3> 자격증 </h3>
 <p> 1.2020년 토목기사 </p>
 <p> 2.2024년 정보처리기사 </p>
