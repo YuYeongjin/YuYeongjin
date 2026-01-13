@@ -17,7 +17,7 @@
 <p> 2.2024년 정보처리기사 </p>
 
 <h3> 주요 프로젝트 </h3>
-<p> AI, 분산원장 기반 송금 및 결제 App, 가맹점 Saas PWA 서비스 개발 PL (2025.08~ ) React, Spring, Kubernetes, Python </p>
+<p> AI, 분산원장 기반 송금 및 결제 App, 가맹점 Saas PWA 서비스 개발 PL (2025.08~2026.01 ) React, Spring, Kubernetes, Python </p>
 <p> RHEL OS 내 백업 솔루션 웹 개발 PL (2025.05~ 2025.07) React, Spring </p>
 <p> VM 서버 서비스 -> Kubernetes 서비스 Migration Docker, Kubernetes (2025.04~~2025.06) </p>
 <p> 카페 자체 멤버십 앱 (가맹점 자체 페이) 개발 (선불 상품권 구매 및 사용, 자체 주문이 가능한 Saas 솔루션) (2024.09~2025.05) React, Spring, Kubernetes </p>
@@ -28,10 +28,11 @@
 <p> LG CNS EAI 개발 (2022.11~2023.01) Message Queue 미들웨어 </p>
 
 <h3> 개인 프로젝트 및 공부</h3>
-<p> Spring 영어 단어 문제 프로그램 실행파일  (2024.08~09 ) React, Spring </p>
-<p> C++ ,C#, 언리얼  -> 디지털 트윈 개인 프로젝트 (2025.04~ ) C++,C# </p>
+<p> LangGraph 기반 Gemini api 활용 물류 및 제조업 AI Agent 연구 및 개발 (2026.01~ ) </p>
+<p> 디지털 트윈 Raspberry OS ARM 64 Study , C# BIM in React Study (2025.10~2025.12 ) </p>
 <p> 디지털 트윈 Lang Chain 기반 이상기후 탐지 기능 (2025.07~2025.09 ) python </p>
-<p> 디지털 트윈 Raspberry OS ARM 64 Study , C# BIM in React Study (2025.10~ ) </p>
+<p> C++ ,C#, 언리얼  -> 디지털 트윈 개인 프로젝트 (2025.04~2025.06 ) C++,C# </p>
+<p> Spring 영어 단어 문제 프로그램 실행파일  (2024.08~09 ) React, Spring </p>
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
