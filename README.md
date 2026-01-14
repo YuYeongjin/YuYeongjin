@@ -17,7 +17,7 @@
 <p> 2.2024년 정보처리기사 </p>
 
 <h3> 주요 프로젝트 </h3>
-<p> AI, 분산원장 기반 송금 및 결제 App, 가맹점 Saas PWA 서비스 개발 PL (2025.08~2026.01 ) React, Spring, Kubernetes, Python </p>
+<p> AI, 분산원장 기반 송금 및 결제 App, 가맹점 Saas PWA 서비스 개발 DevOps (2025.08~2026.01 ) React, Spring, Kubernetes, Python </p>
 <p> RHEL OS 내 백업 솔루션 웹 개발 PL (2025.05~ 2025.07) React, Spring </p>
 <p> VM 서버 서비스 -> Kubernetes 서비스 Migration Docker, Kubernetes (2025.04~~2025.06) </p>
 <p> 카페 자체 멤버십 앱 (가맹점 자체 페이) 개발 (선불 상품권 구매 및 사용, 자체 주문이 가능한 Saas 솔루션) (2024.09~2025.05) React, Spring, Kubernetes </p>
