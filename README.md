@@ -28,7 +28,8 @@
 <p> LG CNS EAI 개발 (2022.11~2023.01) Message Queue 미들웨어 </p>
 
 <h3> 개인 프로젝트 및 공부</h3>
-<p> LangGraph 기반 Gemini api 활용 물류 및 제조업 AI Agent 연구 및 개발 (2026.01~ ) </p>
+<p> SAP ERP + AI Agent Study (2026.03~ ) </p>
+<p> LangGraph 기반 Gemini api 활용 물류 및 제조업 AI Agent 연구 및 개발 (2026.01~2026.03 ) </p>
 <p> 디지털 트윈 Raspberry OS ARM 64 Study , C# BIM in React Study (2025.10~2025.12 ) </p>
 <p> 디지털 트윈 Lang Chain 기반 이상기후 탐지 기능 (2025.07~2025.09 ) python </p>
 <p> C++ ,C#, 언리얼  -> 디지털 트윈 개인 프로젝트 (2025.04~2025.06 ) C++,C# </p>
