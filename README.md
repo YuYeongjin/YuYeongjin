@@ -1,7 +1,7 @@
-### - 🔭 I’m currently working on ...
-
 <h3> 현재 적극 구인중에 있습니다. </h3>
 <h3> 2026년 4월 1일부터 즉시 업무 가능합니다. </h3>
+
+### - 🔭 I’m currently working on ...
 
 <p> UWS 기업부설연구소 개발 매니저 </p>
 
