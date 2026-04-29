@@ -1,4 +1,5 @@
 <h3> LIG Tech 건설사업팀</h3>
+<h3> GS 건설 PMS 담당 SM</h3>
 <h3> 건설에 IT를 접목하고자 살아오고 있습니다. </h3>
 
 ### - 🔭 I’m currently working on ...
