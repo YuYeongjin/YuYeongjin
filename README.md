@@ -1,43 +1,77 @@
-<h3> LIG Tech 건설사업팀</h3>
-<h3> GS 건설 PMS 담당 SM</h3>
-<h3> 건설에 IT를 접목하고자 살아오고 있습니다. </h3>
+# 🏗️ Yeongjin Yu (ユ・ヨンジン)
+### Bridge Engineer: Connecting Civil Engineering with IT Intelligence
 
+I am a **Full-stack Developer** and **Construction IT Researcher** dedicated to revolutionizing the construction industry through Digital Transformation (DX). With 2 years of field experience as a Civil Engineer and a Master's journey in Computer Science, I bridge the gap between physical infrastructure and digital solutions.
+
+---
+
+## 🚀 Vision & Current Focus
+*   **Vision:** Leading the next generation of **Smart Construction** and **Digital Twin** ecosystems.
+*   **Current Research:** BIM integration in React, AI Agents (LangGraph) for Industrial automation, and Edge Computing (Raspberry Pi/ARM64).
+*   **Goal:** Joining a global leader in Construction DX (e.g., Obayashi Corporation) to implement advanced Digital Twin solutions.
+  
 ### - 🔭 I’m currently working on ...
-<p> 한양대학교 공학대학원 컴퓨터공학과 123기 2025.09 ~ (재학중)</p>
-<p> 인하대학교 토목공학과 학사 </p>
+*   **M.S. in Computer Science** | Hanyang University (Graduate School of Engineering) | 2025.09 - Present
+*   **B.S. in Civil Engineering** | Inha University | Graduated
  -  📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuYeongjin&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+---
 
-<h3> 기술 </h3>
-<p>Intermediate : JavaScript(React), Java(Spring)</p>
-<p>Azure, Kakao Cloud & On-Premise Kubernetes CI (Jenkins) / CD (ArgoCD)</p>
-<p>Beginner : C#, C++, Python </p>
-<p>database : maria, postgre
- 
-<h3> 자격증 </h3>
-<p> 1.2020년 토목기사 </p>
-<p> 2.2024년 정보처리기사 </p>
+## 🛠️ Tech Stack
 
-<h3> 주요 프로젝트 </h3>
-<p> AI, 분산원장 기반 송금 및 결제 App, 가맹점 Saas PWA 서비스 풀스택 개발 (2025.08~2026.01 ) React, Spring, Kubernetes, Python </p>
-<p> RHEL OS 내 백업 솔루션 웹 개발 PL (2025.05~ 2025.07) React, Spring </p>
-<p> VM 서버 서비스 -> Kubernetes 서비스 Migration Docker, Kubernetes (2025.04~~2025.06) </p>
-<p> 카페 자체 멤버십 앱 (가맹점 자체 페이) 개발 (선불 상품권 구매 및 사용, 자체 주문이 가능한 Saas 솔루션) (2024.09~2025.05) React, Spring, Kubernetes </p>
-<p> UWS 자체 솔루션 (복지포인트 송금 및 결제 시스템, 좌석 예약 시스템) (2024.03~2024.08) React, Spring </p>
-<p> 결제 모바일 웹 개발 (2023.11~2024.02) React, Spring </p>
-<p> 분산원장 웹 어플리케이션 개발 (2023.05~2023.11) React, Spring, Besu </p>
-<p> 데이터지갑 모바일 어플리케이션 개발 (2023.02~2023.05) React Native, Node.js, Besu </p>
-<p> LG CNS EAI 개발 (2022.11~2023.01) Message Queue 미들웨어 </p>
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | **Intermediate:** Java (Spring Boot), Node.js / **Beginner:** Python, C#, C++ |
+| **Frontend** | **Intermediate:** JavaScript (React), React Native (Mobile) |
+| **Infrastructure** | Azure, Kakao Cloud, Kubernetes (On-premise), Docker |
+| **DevOps** | Jenkins (CI), ArgoCD (CD), RHEL |
+| **Database** | MariaDB, PostgreSQL, Besu (Distributed Ledger) |
+| **Domain** | BIM, Digital Twin, SAP ERP, IoT Sensor Integration |
 
-<h3> 개인 프로젝트 및 공부</h3>
-<p> 디지털 트윈 Raspberry OS ARM 64 Study , C# BIM in React Study (2026.04~) </p>
-<p> SAP ERP + AI Agent Study (2026.03~04 ) </p>
-<p> LangGraph 기반 Gemini api 활용 물류 및 제조업 AI Agent 연구 및 개발 (2026.01~2026.03 ) </p>
-<p> 디지털 트윈 Raspberry OS ARM 64 Study , C# BIM in React Study (2025.10~2025.12 ) </p>
-<p> 디지털 트윈 Lang Chain 기반 이상기후 탐지 기능 (2025.07~2025.09 ) python </p>
-<p> C++ ,C#, 언리얼  -> 디지털 트윈 개인 프로젝트 (2025.04~2025.06 ) C++,C# </p>
-<p> Spring 영어 단어 문제 프로그램 실행파일  (2024.08~09 ) React, Spring </p>
+---
+
+## 💼 Professional Experience
+
+### **SoftwareOne (LIG Group)** | *Construction IT Division* | 2026.04 - Present
+*   **Role:** SM for **GS Construction** PMS (Project Management System).
+*   **Focus:** Maintaining and upgrading enterprise-level construction management systems to drive DX.
+
+### **Full-stack Developer** | *Fintech & AI Solutions* | 2023.02 - 2026.03
+*   Developed AI-based payment SaaS and distributed ledger (Blockchain) applications.
+*   Migrated VM-based services to **Kubernetes** to improve scalability and resource efficiency.
+*   Led a team for backup solution web development on RHEL OS.
+
+### **Civil Engineer** | *Field Operations* | 2020 - 2022
+*   Hands-on experience in construction site management and civil engineering works.
+*   **License:** Certified Civil Engineer (2020), Engineer Information Processing (2024).
+
+---
+
+## 🧪 R&D & Personal Projects
+
+*   **Digital Twin Research (2026.04 - Present):** Studying Raspberry OS ARM64 & C# BIM integration within React environments.
+*   **AI Agent Study (2026.01 - 2026.04):** Developing logistics/manufacturing AI agents using **LangGraph** and Gemini API.
+*   **Climate Detection (2025.07 - 2025.09):** Digital Twin-based abnormal climate detection using Python & LangChain.
+*   **Industrial Simulations:** Unreal Engine & C++ based Digital Twin prototyping.
+
+---
+
+## 🎓 Education
+*   **M.S. in Computer Science** | Hanyang University (Graduate School of Engineering) | 2025.09 - Present
+*   **B.S. in Civil Engineering** | Inha University | Graduated
+
+---
+
+## 🗣️ Languages
+*   **Korean:** Native
+*   **Japanese:** Learning (Targeting JLPT N3 by 2026.12)
+*   **English:** Working Proficiency (Technical Documentation & Communication)
+
+---
+
+## 📫 Contact & Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongjin-yu-00b587361/)
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
