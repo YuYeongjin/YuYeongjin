@@ -72,7 +72,7 @@ I am a **Full-stack Developer** and **Construction IT Researcher** dedicated to 
 ---
 
 ## 📫 Contact & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongjin-yu-00b587361/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongjin-yu-00b587361/?locale=ja-JP)
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
