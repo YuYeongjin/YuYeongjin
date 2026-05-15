@@ -8,7 +8,7 @@ I am a **Full-stack Developer** and **Construction IT Researcher** dedicated to 
 ## 🚀 Vision & Current Focus
 *   **Vision:** Leading the next generation of **Smart Construction** and **Digital Twin** ecosystems.
 *   **Current Research:** BIM integration in React, AI Agents (LangGraph) for Industrial automation, and Edge Computing (Raspberry Pi/ARM64).
-*   **Goal:** Joining a global leader in Construction DX (e.g., Obayashi Corporation) to implement advanced Digital Twin solutions.
+*   **Goal:** Joining a global leader in Construction DX to implement advanced Digital Twin solutions.
   
 ### - 🔭 I’m currently working on ...
 *   **M.S. in Computer Science** | Hanyang University (Graduate School of Engineering) | 2025.09 - Present
