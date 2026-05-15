@@ -38,14 +38,17 @@ I am a **Full-stack Developer** and **Construction IT Researcher** dedicated to 
 *   **Focus:** Maintaining and upgrading enterprise-level construction management systems to drive DX.
 
 ### **Full-stack Developer** | *Fintech & AI Solutions* | 2023.02 - 2026.03
-*   Developed AI-based payment SaaS and distributed ledger (Blockchain) applications.
-*   Migrated VM-based services to **Kubernetes** to improve scalability and resource efficiency.
-*   Led a team for backup solution web development on RHEL OS.
+*   AI Agent Develops Backup Solution Application Lead.
+*   Development of AI-based payment SaaS and distributed ledger (blockchain) applications.
+*   To improve scalability and resource efficiency, we migrated VM-based services to Kubernetes.
 
 ### **Civil Engineer** | *Field Operations* | 2020 - 2022
 *   Hands-on experience in construction site management and civil engineering works.
-*   **License:** Certified Civil Engineer (2020), Engineer Information Processing (2024).
-
+Certified Civil Engineer (2020), Engineer Information Processing (2024).
+---
+## ✨ License
+*   Civil Engineer (Professional Engineer - Korea) (2020)
+*   Information Processing Engineer (Engineer - Korea) (2024).
 ---
 
 ## 🧪 R&D & Personal Projects
