@@ -14,8 +14,7 @@ I am a **Full-stack Developer** and **Construction IT Researcher** dedicated to 
 *   **M.S. in Computer Science** | Hanyang University (Graduate School of Engineering) | 2025.09 - Present
 *   **B.S. in Civil Engineering** | Inha University | Graduated
  -  📈 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuYeongjin&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=AEF71D&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuYeongjin&show_icons=true&theme=radical)](https://github.com/YuYeongjin)
 ---
 
 ## 🛠️ Tech Stack
