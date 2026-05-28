@@ -67,7 +67,7 @@ Certified Civil Engineer (2020), Engineer Information Processing (2024).
 
 ## 🗣️ Languages
 *   **Korean:** Native
-*   **Japanese:** Learning (Targeting JLPT N3 by 2026.12)
+*   **Japanese:** Learning (Targeting JLPT N3..2 by 2026.12)
 *   **English:** Working Proficiency (Technical Documentation & Communication)
 
 ---
