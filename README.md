@@ -2,6 +2,9 @@
 ### BIM Engineer: Connecting Civil Engineering with IT Engineering 
 
 I am a **Full-stack Developer** and **Construction IT Researcher** dedicated to revolutionizing the construction industry through Digital Transformation (DX). With 2 years of field experience as a Civil Engineer and a Master's journey in Computer Science, I bridge the gap between physical infrastructure and digital solutions.
+## 📫 Contact & Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongjin-yu-00b587361/?locale=ja-JP)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/jindevlog)
 
 ---
 
@@ -72,8 +75,8 @@ Certified Civil Engineer (2020), Engineer Information Processing (2024).
 
 ---
 
-## 📫 Contact & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongjin-yu-00b587361/?locale=ja-JP)
+
+
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuYeongjin&langs_count=8
 
